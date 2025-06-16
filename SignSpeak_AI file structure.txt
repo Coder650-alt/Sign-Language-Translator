@@ -1,0 +1,8 @@
+SignSpeak_AI/
+├── data/
+│   └── asl_alphabet_train/
+├── model/
+├── utils/
+├── 01_Visualize_Dataset.ipynb
+├── train_model.ipynb ← We’ll create this next
+└── README.md
